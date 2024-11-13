@@ -1,5 +1,5 @@
 # Linux-IPC-Message-Queues
-### Name : Srikaran M
+### Name : Akahaikhanna D
 ### Register Number : 212223040010
 # AIM:
 To write a C program that receives a message from message queue and display them
